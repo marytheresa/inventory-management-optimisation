@@ -4,9 +4,12 @@ Overview
 This repository contains Jupyter Notebooks demonstrating an inventory management optimisation project
 
 How to Run
+
 Clone the repository: git clone https://github.com/marytheresa/inventory-management-optimisation.git
 Navigate to the project directory: cd inventory-management-optimisation
 Open the Jupyter Notebook: jupyter notebook inventory-management-optimisation.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marytheresa/inventory-management-optimisation/main)
 
 Description of the Notebook
 This notebook contains a comprehensive analysis of sales data for a liquor store chain. Here's a summary of the main components and analyses performed:
