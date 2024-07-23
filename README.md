@@ -9,6 +9,8 @@ Clone the repository: git clone https://github.com/marytheresa/inventory-managem
 Navigate to the project directory: cd inventory-management-optimisation
 Open the Jupyter Notebook: jupyter notebook inventory-management-optimisation.ipynb
 
+##To run the notebook directly in your browser without needing to install anything, please click the link below:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marytheresa/inventory-management-optimisation/main)
 
 Description of the Notebook
